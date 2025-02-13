@@ -1,5 +1,3 @@
-package BookingApp;
-
 public class Classroom {
 
     private int number;
