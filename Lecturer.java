@@ -1,5 +1,3 @@
-package BookingApp;
-
 public class Lecturer {
 
     private int id, contact;
